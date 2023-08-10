@@ -5,7 +5,7 @@ export default function q1() {
     <main className={styles.question}>
       <h1>
         Question 5: Imagine a customer writes in requesting help with a build
-        issue on a framework or technology that you've not seen before. How
+        issue on a framework or technology that {"you've"} not seen before. How
         would you go about troubleshooting this and what questions would you ask
         the customer to understand the situation better?
       </h1>
@@ -27,9 +27,9 @@ export default function q1() {
         Thank you for being part of Vercel.
         <br />
         <br />
-        My name is Jorge P. and I'll be your Support Engineer for this case. In
-        order to provide you with the best support possible, please answer the
-        following questions as best as you can:
+        My name is Jorge P. and {"I'll"} be your Support Engineer for this case.
+        In order to provide you with the best support possible, please answer
+        the following questions as best as you can:
         <br />
         Please provide a brief description of the issue.
         <br />
@@ -47,8 +47,8 @@ export default function q1() {
         What is the best time and method to contact you?
         <br />
         <br />
-        Don't hesitate to contact me if you have trouble gathering any of the
-        information above, I can also jump on a meeting if that suits you
+        {"Don't"} hesitate to contact me if you have trouble gathering any of
+        the information above, I can also jump on a meeting if that suits you
         better.
         <br />
         <br />

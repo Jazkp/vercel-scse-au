@@ -14,11 +14,11 @@ export default function q3() {
         Components and utilities are pre-built in Bootstrap while you can
         customize based on your needs with Next.js <br />
         <br />
-        Since Bootstrap is pre-built, it doesn't allow customization and loses
-        performance-wise compared to Next.js <br />
+        Since Bootstrap is pre-built, it {"doesn't"} allow customization and
+        loses performance-wise compared to Next.js <br />
         <br />
-        Next.js is built thinking about SEO, while Bootstrap doesn't have such
-        capability and is not SEO-friendly. <br />
+        Next.js is built thinking about SEO, while Bootstrap {"doesn't"} have
+        such capability and is not SEO-friendly. <br />
         <br />
         Next.js also allows for server-side rendering and built-in routing;
         Bootstrap also allows this but is not as simple to code. <br />

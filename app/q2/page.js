@@ -15,7 +15,8 @@ export default function q2() {
         <br />
         <br />
         After briefly panicking, I gathered myself and started determining the
-        root cause of such event. There were concepts and commands that I didn't
+        root cause of such event. There were concepts and commands that I{" "}
+        {"didn't"}
         understand but with great support from L3 and exhaustive Confluence
         research I was able to fix the issue.
         <br />

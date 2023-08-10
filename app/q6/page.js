@@ -22,9 +22,9 @@ export default function q1() {
         Create an async redirect function with the following properties in your
         next.config.js file:
         <br />
-        source: '/blog',
+        source: {"/blog"},
         <br />
-        destination: '[new destination here]',
+        destination: {"[new destination here]"},
         <br />
         permanent: true/false
         <br />
@@ -45,7 +45,7 @@ export default function q1() {
         Create a meta tag with the following information:{" "}
         {"<meta name='robots' content='noindex'/>"}
         <br />
-        It's important to note that modifying the meta tag yields a better
+        {"It's"} important to note that modifying the meta tag yields a better
         result than blocking the page from robots.txt. <br />
         <br />
         You can find more information in the following KB:{" "}
@@ -56,9 +56,8 @@ export default function q1() {
           <b>Google Search Central | Block Search indexing with noindex</b>
         </a>
         <br />
-        <br />
-        I hope this information was useful. Don't hestitate to reach back to me
-        if any further questions arise.
+        <br />I hope this information was useful. {"Don't"} hestitate to reach
+        back to me if any further questions arise.
         <br />
         <br />
         Kindest Regards,
@@ -79,7 +78,7 @@ export default function q1() {
         <b>
           I liked the exercise but formatting text questions using JSX is very
           time consuming. I tried doing my best given the allocated time,
-          hopefully it doesn't look too bad!{" "}
+          hopefully it {"doesn't"} look too bad!{" "}
         </b>
       </p>
     </main>
