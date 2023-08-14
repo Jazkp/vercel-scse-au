@@ -7,7 +7,7 @@ export default function q3() {
         Question 3: How would you compare Next.js with another frontend
         framework?
       </h1>
-      <p style={{ fontSize: "15px" }}>
+      <p style={{ margin: 20, fontSize: "18px" }}>
         Bootstrap and Next.js are two popular tools for building web
         applications. <br />
         <br />

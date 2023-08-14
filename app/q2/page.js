@@ -8,7 +8,7 @@ export default function q2() {
         you faced in a previous role (preferably in a previous support role).
         How did you determine that your solution was successful?
       </h1>
-      <p style={{ fontSize: "15px" }}>
+      <p style={{ margin: 20, fontSize: "18px" }}>
         While I was working for NetApp, I received a ticket from Apple with a P1
         flag. No more than one of their datacenters was down! You could imagine
         how immediate and comprehensive my support needed to be.

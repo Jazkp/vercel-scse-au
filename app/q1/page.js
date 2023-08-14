@@ -4,7 +4,7 @@ export default function q1() {
   return (
     <main className={styles.question}>
       <h1>Question 1: What do you want to learn or do more of at work?</h1>
-      <p style={{ fontSize: "20px" }}>
+      <p style={{ margin: 20, fontSize: "18px" }}>
         During my professional experience I have worked very closely with
         backend systems and languages. It was natural that during my programming
         studies, I focused more on what I already had a competitive advantage.

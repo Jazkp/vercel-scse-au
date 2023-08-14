@@ -26,7 +26,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <h2>Vercel Assessment</h2>
+        <h2>Vercel Skill Assessment</h2>
       </div>
 
       <div className={styles.grid}>
